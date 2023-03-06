@@ -1,0 +1,7 @@
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\obj\Debug\Rsa_ibizi_lb4.csproj.AssemblyReference.cache
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\obj\Debug\Rsa_ibizi_lb4.csproj.CoreCompileInputs.cache
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\bin\Debug\Rsa_ibizi_lb4.exe.config
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\bin\Debug\Rsa_ibizi_lb4.exe
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\bin\Debug\Rsa_ibizi_lb4.pdb
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\obj\Debug\Rsa_ibizi_lb4.exe
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Rsa_ibizi_lb4\Rsa_ibizi_lb4\obj\Debug\Rsa_ibizi_lb4.pdb
